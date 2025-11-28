@@ -110,6 +110,8 @@ python attack.py
 
 jaydeadlondon
 
+- GitHub: [@jaydeadlondon](https://github.com/jaydeadlondon)
+
 ---
 
 ## 📄 Лицензия
